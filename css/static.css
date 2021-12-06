@@ -1,0 +1,19 @@
+body {
+    background-color: #4D908E;
+}
+
+.navbar-nav>li {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.navbar-nav>li {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.btn-info {
+    background-color: #3A6B65 !important;
+    color: white;
+
+}
